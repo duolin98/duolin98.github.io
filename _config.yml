@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Duo Lin"
-description              : "PhD student at UIUIC | Graph Machine Learning"
+description              : "PhD student at UIUIC | Graph ML, Data-Centric Methods, Trustworthy ML"
 repository               : "duolin98/duolin98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Duo Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student in Optimization and ML"
+  bio              : "University of Illinois urbana-Champaign"
   location         : "Champaign, IL"
-  employer         : "University of Illinois Urbana-Champaign"
+  employer         : "UIUC"
   googlescholar    : "https://scholar.google.com/citations?user=8Q2uD3sAAAAJ"
   email            : "duolin2@illinois.edu"
-  uri              : "https://duolin98.github.io"
-  github           : "duolin98" # e.g., "github username"
+  # uri              : "https://duolin98.github.io"
+  # github           : "duolin98" # e.g., "github username"
   linkedin         : "duo-lin-4250a2129" # e.g., "linkedin username"
 
 
