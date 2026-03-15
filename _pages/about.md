@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a PhD student in Industrial Engineering at the University of Illinois Urbana-Champaign. My work focuses on graph machine learning, optimization, and data-centric AI. 
+Hello! I am a third-year PhD student in Industrial Engineering at the University of Illinois Urbana-Champaign. My work focuses on graph machine learning, optimization, and data-centric methods in ML. 
 
 # 🔥 News
 
-- I'm co-organizing 2026 ISE Student Conference. This year's theme is **Data-Driven Intelligent Systems: From Modeling to Impact**. Come join us on Friday, April 24, 2026!
+- I am co-organizing 2026 ISE Student Conference. The theme of this year is **Data-Driven Intelligent Systems: From Modeling to Impact**. Join us on Friday, April 24, 2026!
 
 # 📝 Publications 
 
@@ -47,5 +47,4 @@ I have served as a teaching assistant for the following courses:
 - IE 421 - Financial Engineering (Graduate, Spring 24)
 
 # 🤝 Service
-- Co-organizer, *2026 ISE Student Conference*  
-  *Data-Driven Intelligent Systems: From Modeling to Impact* April 24, 2026
+- Co-organizer, **2026 ISE Student Conference**, *Data-Driven Intelligent Systems: From Modeling to Impact*, April 24, 2026
