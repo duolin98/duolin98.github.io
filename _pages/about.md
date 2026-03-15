@@ -31,11 +31,12 @@ Hello! I am a third-year PhD student in Industrial Engineering at the University
 
 - **PhD in Industrial Engineering**, University of Illinois Urbana-Champaign  
   *Jan 2024 – Present*
-  - Advisor: Olgica Milenkovic
   - Research: Graph Machine Learning, Data-centric methods
+  - Advisor: Olgica Milenkovic
 - **MS in Applied Mathematics**, University of Illinois Urbana-Champaign  
   *Aug 2021 – Dec 2023*
-  - Thesis: On Chen-Lih-Wu Conjecture for planar graphs 
+  - Research: Combinatorics & Graph Theory
+  - Thesis: On Chen-Lih-Wu Conjecture for planar graphs (Advisor: Alexandr Kostochka)
 - **BS in Mathematics**, University of California, Irvine  
   *Sep 2016 – Jun 2020*
 
