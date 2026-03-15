@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Duo Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Illinois urbana-Champaign"
+  bio              : "University of Illinois Urbana-Champaign"
   location         : "Champaign, IL"
   employer         : "UIUC"
   googlescholar    : "https://scholar.google.com/citations?user=8Q2uD3sAAAAJ"
