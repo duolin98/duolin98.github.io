@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Duo Lin"
-  avatar           : "images/gpt_avatar.jpg"
+  avatar           : "images/gptavatar.png"
   bio              : "University of Illinois Urbana-Champaign"
   location         : "Champaign, IL"
   employer         : "UIUC"
