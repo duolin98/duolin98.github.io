@@ -25,7 +25,7 @@ Hello! I am a third-year PhD student in Industrial Engineering at the University
 
 # 📝 Publications 
 
-- Alexandr Kostochka, **Duo Lin**, Zimu Xiang. *Equitable coloring of planar graphs*. **Discrete Mathematics**, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0012365X24000955)]
+- Alexandr Kostochka, **Duo Lin**, Zimu Xiang. *Equitable coloring of planar graphs with maximum degree at least eight*. **Discrete Mathematics**, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0012365X24000955)] 
 
 # 📖 Educations
 
