@@ -26,7 +26,7 @@ I’m also happy to chat with ISE students about coursework, research, or explor
 
 # 🔥 News
 
-- I am co-organizing 2026 ISE Student Conference. The theme of this year is **Data-Driven Intelligent Systems: From Modeling to Impact**. Join us on Friday, April 24, 2026!
+- I am co-organizing 2026 ISE Student Conference. The theme of this year is **Data-Driven Intelligent Systems: From Modeling to Impact**. Join us on Friday, April 24, 2026! [[Link](https://publish.illinois.edu/ise-student-conference-2025/)]
 
 # 📝 Publications 
 
