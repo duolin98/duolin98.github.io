@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am a third-year PhD student in Industrial Engineering at the University of Illinois Urbana-Champaign. My work focuses on graph machine learning, optimization, and data-centric methods in ML. 
 
-Students occasionally reach out asking about transitioning from mathematics to engineering.
+People occasionally ask me about transitioning from mathematics to engineering.
 If you are an undergraduate or master’s student in mathematics exploring a similar path, feel free to reach out.
 I’m also happy to chat with ISE students about coursework, research, or exploring different directions.
 
