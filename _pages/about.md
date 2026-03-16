@@ -31,6 +31,7 @@ Hello! I am a third-year PhD student in Industrial Engineering at the University
 
 - **PhD in Industrial Engineering**, University of Illinois Urbana-Champaign  
   *Jan 2024 – Present*
+  - Graduate Concentration: Data Science & Engineering
   - Research: Graph Machine Learning, Data-centric methods
   - Advisor: Olgica Milenkovic
 - **MS in Applied Mathematics**, University of Illinois Urbana-Champaign  
