@@ -19,8 +19,9 @@ redirect_from:
 
 Hello! I am a third-year PhD student in Industrial Engineering at the University of Illinois Urbana-Champaign. My work focuses on graph machine learning, optimization, and data-centric methods in ML. 
 
-If you are an undergraduate or master’s student in mathematics thinking about transitioning into operations research or machine learning, feel free to reach out.
-I’m also happy to chat with ISE students about coursework or research.
+Students occasionally reach out asking about transitioning from mathematics to engineering.
+If you are an undergraduate or master’s student in mathematics exploring a similar path, feel free to reach out.
+I’m also happy to chat with ISE students about coursework, research, or exploring different directions.
 
 
 # 🔥 News
@@ -49,8 +50,14 @@ I’m also happy to chat with ISE students about coursework or research.
 I have served as a teaching assistant for the following courses:
 
 - IE 300 - Analysis of Data (Undergraduate, Fall 24, Fall 25, Spring 26)
+  - Designed homework assignments and exam questions on probability and data analysis.
+  - Prepared detailed solution guides.
+  - Led lab sessions and helped students develop problem-solving and coding skills.
 - IE 511 - Integer Programming (Graduate, Spring 25)
+  - Graded assignments for a graduate course on advanced optimization theory.
+  - Held office hours to guide students through technical problems and mathematical reasoning.
 - IE 421 - Financial Engineering (Graduate, Spring 24)
+  - Assisted with grading assignments and supporting students with quantitative modeling concepts.
 
 # 🤝 Service
 - Co-organizer, **2026 ISE Student Conference**, *Data-Driven Intelligent Systems: From Modeling to Impact*, April 24, 2026
