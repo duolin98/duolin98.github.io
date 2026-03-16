@@ -25,7 +25,7 @@ author:
   avatar           : "images/gptavatar.png"
   bio              : "University of Illinois Urbana-Champaign"
   location         : "Champaign, IL"
-  employer         : "UIUC"
+  # employer         : "UIUC"
   googlescholar    : "https://scholar.google.com/citations?user=8Q2uD3sAAAAJ"
   email            : "duolin2@illinois.edu"
   # uri              : "https://duolin98.github.io"
