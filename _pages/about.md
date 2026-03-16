@@ -53,10 +53,10 @@ I have served as a teaching assistant for the following courses:
   - Designed homework assignments and exam questions on probability and data analysis.
   - Prepared detailed solution guides.
   - Led lab sessions and helped students develop problem-solving and coding skills.
-- IE 511 - Integer Programming (Graduate, Spring 25)
-  - Graded assignments for a graduate course on advanced optimization theory.
+- IE 511 - Integer Programming (Graduate, Spring 2025)
+  - Graded assignments and exams and provided detailed feedback for a PhD-qualifying course in advanced optimization theory.
   - Held office hours to guide students through technical problems and mathematical reasoning.
-- IE 421 - Financial Engineering (Graduate, Spring 24)
+- IE 421 - Financial Engineering (Graduate, Spring 2024)
   - Assisted with grading assignments and supporting students with quantitative modeling concepts.
 
 # 🤝 Service
