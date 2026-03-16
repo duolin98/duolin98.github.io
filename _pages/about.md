@@ -19,6 +19,10 @@ redirect_from:
 
 Hello! I am a third-year PhD student in Industrial Engineering at the University of Illinois Urbana-Champaign. My work focuses on graph machine learning, optimization, and data-centric methods in ML. 
 
+If you are an undergraduate or master’s student in mathematics thinking about transitioning into operations research or machine learning, feel free to reach out.
+I’m also happy to chat with ISE students about coursework or research.
+
+
 # 🔥 News
 
 - I am co-organizing 2026 ISE Student Conference. The theme of this year is **Data-Driven Intelligent Systems: From Modeling to Impact**. Join us on Friday, April 24, 2026!
