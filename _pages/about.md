@@ -56,7 +56,7 @@ I have served as a teaching assistant for the following courses:
 - IE 511 - Integer Programming (Graduate, Spring 2025)
   - Graded assignments and exams with detailed feedback for a PhD-qualifying course in advanced optimization theory.
   - Held office hours to guide students through technical problems and mathematical reasoning.
-- IE 421 - Financial Engineering (Graduate, Spring 2024)
+- IE 420 - Financial Engineering (Graduate, Spring 2024)
   - Assisted with grading assignments and supporting students with quantitative modeling concepts.
 
 # 🤝 Service
