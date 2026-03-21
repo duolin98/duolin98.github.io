@@ -41,10 +41,11 @@ I’m also happy to chat with ISE students about coursework, research, or explor
   - Advisor: Olgica Milenkovic
 - **MS in Applied Mathematics**, University of Illinois Urbana-Champaign  
   *Aug 2021 – Dec 2023*
-  - Research: Combinatorics & Graph Theory
+  - Research: Combinatorics & Graph Theory; Optimization & Algorithms
   - Thesis: On Chen-Lih-Wu Conjecture for planar graphs (Advisor: Alexandr Kostochka)
 - **BS in Mathematics**, University of California, Irvine  
   *Sep 2016 – Jun 2020*
+  - I spent much of my undergraduate time exploring number theory, mathematical cryptography, and creative writing.
 
 # 👩‍🏫 Teaching
 I have served as a teaching assistant for the following courses:
