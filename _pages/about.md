@@ -37,6 +37,7 @@ I’m also happy to chat with ISE students about coursework, research, or explor
 - **PhD in Industrial Engineering**, University of Illinois Urbana-Champaign  
   *Jan 2024 – Present*
   - Graduate Concentration: Data Science & Engineering
+  - Advisor: Olgica Milenkovic
 - **MS in Applied Mathematics**, University of Illinois Urbana-Champaign  
   *Aug 2021 – Dec 2023*
   - Research: Combinatorics & Graph Theory; Optimization & Algorithms
