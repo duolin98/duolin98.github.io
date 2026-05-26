@@ -50,9 +50,9 @@ I’m also happy to chat with ISE students about coursework, research, or explor
 I have served as a teaching assistant for the following courses:
 
 - IE 300 - Analysis of Data (Undergraduate, Fall 24, Fall 25, Spring 26)
-  - Designed homework assignments and exam questions on probability and data analysis.
-  - Prepared detailed solution guides.
-  - Led lab sessions and helped students develop problem-solving and coding skills.
+  - Designed homework assignments and exam questions on probability, statistics, and data analysis.
+  - Prepared detailed solution guides and grading rubrics.
+  - Led lab sessions and supported students in developing problem-solving and coding skills.
 - IE 511 - Integer Programming (Graduate, Spring 2025)
   - Graded assignments and exams with detailed feedback for a PhD-qualifying course in advanced optimization theory.
   - Held office hours to guide students through technical problems and mathematical reasoning.
