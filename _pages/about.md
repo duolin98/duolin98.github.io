@@ -32,7 +32,7 @@ I’m also happy to chat with ISE students about coursework, research, or explor
 
 - Alexandr Kostochka, **Duo Lin**, Zimu Xiang. *Equitable coloring of planar graphs with maximum degree at least eight*. **Discrete Mathematics**, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0012365X24000955)] 
 
-# 📖 Educations
+# 📖 Education
 
 - **PhD in Industrial Engineering**, University of Illinois Urbana-Champaign  
   *Jan 2024 – Present*
