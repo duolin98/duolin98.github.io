@@ -37,11 +37,10 @@ I’m also happy to chat with ISE students about coursework, research, or explor
 - **PhD in Industrial Engineering**, University of Illinois Urbana-Champaign  
   *Jan 2024 – Present*
   - Graduate Concentration: Data Science & Engineering
-  - Advisor: Olgica Milenkovic
 - **MS in Applied Mathematics**, University of Illinois Urbana-Champaign  
   *Aug 2021 – Dec 2023*
   - Research: Combinatorics & Graph Theory; Optimization & Algorithms
-  - Thesis: On Chen-Lih-Wu Conjecture for Planar Graphs (Advisor: Alexandr Kostochka)
+  - Thesis: On Chen-Lih-Wu Conjecture for Planar Graphs 
 - **BS in Mathematics**, University of California, Irvine  
   *Sep 2016 – Jun 2020*
   - I spent much of my undergraduate time exploring number theory, mathematical cryptography, and creative writing.
